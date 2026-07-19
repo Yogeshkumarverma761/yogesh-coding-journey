@@ -93,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
 <!---LeetCode Topics End-->
