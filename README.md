@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0242-valid-anagram) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
 |  |
 | ------- |
@@ -124,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
