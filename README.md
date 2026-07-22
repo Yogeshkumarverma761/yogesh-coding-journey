@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
@@ -155,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Depth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
