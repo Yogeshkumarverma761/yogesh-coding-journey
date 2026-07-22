@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
 | ------- |
@@ -142,4 +143,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
+## Graph Theory
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
