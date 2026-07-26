@@ -204,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
