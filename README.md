@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0037-sudoku-solver) |
 | [0242-valid-anagram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0037-sudoku-solver) |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 ## Bit Manipulation
