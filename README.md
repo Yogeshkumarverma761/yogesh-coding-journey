@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -169,11 +171,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 ## Bitmask
 |  |
 | ------- |
