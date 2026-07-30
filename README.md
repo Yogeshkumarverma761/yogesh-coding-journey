@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
+| [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
+| [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 ## Data Stream
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
+## Iterator
+|  |
+| ------- |
+| [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 <!---LeetCode Topics End-->
