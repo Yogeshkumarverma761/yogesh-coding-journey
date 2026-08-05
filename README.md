@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
