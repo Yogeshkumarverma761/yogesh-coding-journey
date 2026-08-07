@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0860-lemonade-change](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0860-lemonade-change) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Math
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Graph Theory
 |  |
