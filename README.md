@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
@@ -193,10 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Union-Find
 |  |
@@ -341,4 +346,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Lifting
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## DP on Trees
+|  |
+| ------- |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
