@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Counting
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
