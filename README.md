@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Prefix Sum
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Greedy
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sliding Window
 |  |
@@ -226,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 ## Bit Manipulation
 |  |
@@ -235,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 ## Bitmask
 |  |
@@ -242,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Simulation
 |  |
 | ------- |
