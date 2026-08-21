@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Enumeration
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Iterator
 |  |
 | ------- |
