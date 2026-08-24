@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0242-valid-anagram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0242-valid-anagram) |
+| [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0237-delete-node-in-a-linked-list) |
+| [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0725-split-linked-list-in-parts](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0725-split-linked-list-in-parts) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
