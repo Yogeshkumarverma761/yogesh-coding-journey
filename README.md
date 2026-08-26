@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Counting
 |  |
 | ------- |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Topological Sort
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Trie
 |  |
 | ------- |
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Number Theory
+|  |
+| ------- |
+| [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 <!---LeetCode Topics End-->
