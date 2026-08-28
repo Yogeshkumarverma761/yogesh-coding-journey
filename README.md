@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -460,4 +462,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0223-rectangle-area) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->
