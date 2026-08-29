@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3537-fill-a-special-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
@@ -132,10 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3537-fill-a-special-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3537-fill-a-special-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [3537-fill-a-special-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3537-fill-a-special-grid) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## String
 |  |
