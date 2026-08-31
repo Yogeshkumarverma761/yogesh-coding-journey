@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0132-palindrome-partitioning-ii) |
+| [0171-excel-sheet-column-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0013-roman-to-integer) |
+| [0171-excel-sheet-column-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0171-excel-sheet-column-number) |
 | [0223-rectangle-area](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0223-rectangle-area) |
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
