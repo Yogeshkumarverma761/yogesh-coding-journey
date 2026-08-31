@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0013-roman-to-integer) |
 | [0171-excel-sheet-column-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0172-factorial-trailing-zeroes) |
 | [0223-rectangle-area](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0223-rectangle-area) |
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
