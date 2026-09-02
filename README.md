@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Linked List
 |  |
 | ------- |
