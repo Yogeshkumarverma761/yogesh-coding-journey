@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
+| [0707-design-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0725-split-linked-list-in-parts) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
+| [0707-design-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0707-design-linked-list) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
 | [1286-iterator-for-combination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1286-iterator-for-combination) |
