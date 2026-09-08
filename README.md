@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
+| [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0875-koko-eating-bananas) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
+| [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -495,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
