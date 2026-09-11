@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0301-remove-invalid-parentheses) |
+| [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
+| [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
+| [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
