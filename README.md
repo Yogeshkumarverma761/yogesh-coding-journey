@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0707-design-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0725-split-linked-list-in-parts) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Tree
