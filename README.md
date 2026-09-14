@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
+| [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
+| [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
+| [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0355-design-twitter) |
+| [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0707-design-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0707-design-linked-list) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0901-online-stock-span](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0901-online-stock-span) |
@@ -462,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 ## Recursion
 |  |
