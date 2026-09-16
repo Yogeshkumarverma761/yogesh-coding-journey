@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1145-binary-tree-coloring-game) |
 ## Binary Tree
 |  |
 | ------- |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1145-binary-tree-coloring-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1145-binary-tree-coloring-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1145-binary-tree-coloring-game) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
