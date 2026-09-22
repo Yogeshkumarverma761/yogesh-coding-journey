@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0998-maximum-binary-tree-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0998-maximum-binary-tree-ii) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1080-insufficient-nodes-in-root-to-leaf-paths](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1080-insufficient-nodes-in-root-to-leaf-paths) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
@@ -409,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1462-course-schedule-iv](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1462-course-schedule-iv) |
