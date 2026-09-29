@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0946-validate-stack-sequences) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1003-check-if-word-is-valid-after-substitutions) |
+| [1006-clumsy-factorial](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1006-clumsy-factorial) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0504-base-7) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1006-clumsy-factorial](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1006-clumsy-factorial) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0946-validate-stack-sequences) |
+| [1006-clumsy-factorial](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1006-clumsy-factorial) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
