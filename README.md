@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
 | [1980-find-unique-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1980-find-unique-binary-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1980-find-unique-binary-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 ## Prefix Sum
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
 ## Stack
 |  |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 ## Iterator
 |  |
 | ------- |
