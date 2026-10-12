@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1405-longest-happy-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1405-longest-happy-string) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bitmask
 |  |
 | ------- |
