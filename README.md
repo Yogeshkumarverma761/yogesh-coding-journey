@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3112-minimum-time-to-visit-disappearing-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3112-minimum-time-to-visit-disappearing-nodes) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
 ## Linked List
 |  |
 | ------- |
