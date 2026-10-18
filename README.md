@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3537-fill-a-special-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3537-fill-a-special-grid) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
 ## Hash Table
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
 ## Stack
 |  |
