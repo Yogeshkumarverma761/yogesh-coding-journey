@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
