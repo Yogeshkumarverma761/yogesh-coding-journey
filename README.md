@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1145-binary-tree-coloring-game) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1145-binary-tree-coloring-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1145-binary-tree-coloring-game) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Backtracking
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1462-course-schedule-iv](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1462-course-schedule-iv) |
 | [2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2192-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -584,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -654,4 +659,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0480-sliding-window-median) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
