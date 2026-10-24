@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1980-find-unique-binary-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1980-find-unique-binary-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2409-count-days-spent-together](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2409-count-days-spent-together) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3799-word-squares-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3799-word-squares-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-clumsy-factorial](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1006-clumsy-factorial) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1238-circular-permutation-in-binary-representation) |
+| [2409-count-days-spent-together](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
 ## Counting
