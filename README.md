@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Binary Search
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0076-minimum-window-substring) |
 | [0480-sliding-window-median](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0480-sliding-window-median) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
+| [1208-get-equal-substrings-within-budget](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
