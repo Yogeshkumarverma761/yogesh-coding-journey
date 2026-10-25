@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0076-minimum-window-substring) |
 | [0480-sliding-window-median](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0480-sliding-window-median) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1208-get-equal-substrings-within-budget) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1234-replace-the-substring-for-balanced-string) |
@@ -676,4 +680,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
