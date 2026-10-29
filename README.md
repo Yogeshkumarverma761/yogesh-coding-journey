@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
 | [0731-my-calendar-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
+| [0740-delete-and-earn](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0860-lemonade-change) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0621-task-scheduler) |
 | [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
+| [0740-delete-and-earn](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0740-delete-and-earn](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0740-delete-and-earn) |
 | [0837-new-21-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0837-new-21-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
