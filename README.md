@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0120-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0313-super-ugly-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0313-super-ugly-number) |
 | [0406-queue-reconstruction-by-height](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0406-queue-reconstruction-by-height) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0313-super-ugly-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0313-super-ugly-number) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
