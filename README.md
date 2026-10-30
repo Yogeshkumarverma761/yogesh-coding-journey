@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0931-minimum-falling-path-sum) |
 | [0946-validate-stack-sequences](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0946-validate-stack-sequences) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0837-new-21-game) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0931-minimum-falling-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
