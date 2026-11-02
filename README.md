@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1094-car-pooling](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1094-car-pooling) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1254-number-of-closed-islands](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1254-number-of-closed-islands) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1054-distant-barcodes) |
 | [1110-delete-nodes-and-return-forest](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1110-delete-nodes-and-return-forest) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0940-distinct-subsequences-ii) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1653-minimum-deletions-to-make-string-balanced) |
