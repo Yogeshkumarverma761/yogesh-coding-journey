@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3537-fill-a-special-grid](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3537-fill-a-special-grid) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Prefix Sum
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Greedy
 |  |
 | ------- |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2409-count-days-spent-together) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-longest-nice-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2401-longest-nice-subarray) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2653-sliding-subarray-beauty](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2653-sliding-subarray-beauty) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Linked List
 |  |
 | ------- |
@@ -600,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3377-digit-operations-to-make-two-integers-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3377-digit-operations-to-make-two-integers-equal) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Trie
 |  |
 | ------- |
