@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1539-kth-missing-positive-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1268-search-suggestions-system) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1901-find-a-peak-element-ii) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2094-finding-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-reverse-only-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0917-reverse-only-letters) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Monotonic Stack
 |  |
