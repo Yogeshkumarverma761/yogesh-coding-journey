@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0385-mini-parser](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0385-mini-parser) |
 | [0402-remove-k-digits](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0481-magical-string) |
 | [0504-base-7](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0088-merge-sorted-array) |
 | [0443-string-compression](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0443-string-compression) |
+| [0481-magical-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0481-magical-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0917-reverse-only-letters](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0917-reverse-only-letters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1385-find-the-distance-value-between-two-arrays) |
