@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0481-magical-string) |
 | [0504-base-7](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0516-longest-palindromic-subsequence) |
+| [0537-complex-number-multiplication](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0537-complex-number-multiplication) |
 | [0676-implement-magic-dictionary](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0676-implement-magic-dictionary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0721-accounts-merge](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0721-accounts-merge) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0504-base-7) |
+| [0537-complex-number-multiplication](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0537-complex-number-multiplication) |
 | [0553-optimal-division](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0553-optimal-division) |
 | [0837-new-21-game](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0837-new-21-game) |
 | [0996-number-of-squareful-arrays](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0996-number-of-squareful-arrays) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0537-complex-number-multiplication](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0537-complex-number-multiplication) |
 | [0735-asteroid-collision](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1006-clumsy-factorial) |
