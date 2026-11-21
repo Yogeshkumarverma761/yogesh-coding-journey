@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0223-rectangle-area) |
 | [0282-expression-add-operators](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0492-construct-the-rectangle) |
@@ -771,4 +772,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/1696-jump-game-vi) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
