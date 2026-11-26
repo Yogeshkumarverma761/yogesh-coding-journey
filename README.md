@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0132-palindrome-partitioning-ii) |
 | [0313-super-ugly-number](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0396-rotate-function) |
 | [0410-split-array-largest-sum](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0473-matchsticks-to-square) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0492-construct-the-rectangle) |
@@ -716,10 +718,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Yogeshkumarverma761/yogesh-coding-journey/tree/master/0486-predict-the-winner) |
 ## Zero-Sum Game
 |  |
